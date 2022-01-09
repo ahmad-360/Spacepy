@@ -12,8 +12,8 @@ You have to run :
 
 # Windows Users
 You have to run :
-`   pip install pygame
-``>python menu_main.py
+`pip install pygame
+python menu_main.py
 `
 Best Wishes Mal4D. Odima Kokab:) <3 
 
