@@ -1,0 +1,11 @@
+pip3 install pygame
+
+or
+
+pip install pygame
+
+python3 menu_main.py
+
+or 
+
+python  menu_main.py
