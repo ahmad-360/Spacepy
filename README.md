@@ -5,10 +5,10 @@ This is a 2D game based on python you can use it in your high school project...,
 
 # Linux Users
 You have to run :
-`pip3 install pygame  
-`
-`python3 menu_main.py  
-`
+`pip3 install pygame`  <br />
+
+`python3 menu_main.py`  <br />
+
 
 # Windows Users
 You have to run :
