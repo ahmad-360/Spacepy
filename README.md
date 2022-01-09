@@ -13,6 +13,7 @@ You have to run : <br />
 # Windows Users
 You have to run : <br />
 `pip install pygame` <br />
+
 `python menu_main.py` <br />
 
 Best Wishes Mal4D. Odima Kokab:) <3 
