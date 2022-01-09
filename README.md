@@ -4,16 +4,16 @@ This is a 2D game based on python you can use it in your high school project...,
 !!!! The sounds , image ... are from: Undertale game , pixabay.com/,flaticon.com/.
 
 # Linux Users
-You have to run :
+You have to run : <br />
 `pip3 install pygame`  <br />
 
 `python3 menu_main.py`  <br />
 
 
 # Windows Users
-You have to run :
-pip install pygame
-python menu_main.py
+You have to run : <br />
+`pip install pygame` <br />
+`python menu_main.py` <br />
 
 Best Wishes Mal4D. Odima Kokab:) <3 
 
